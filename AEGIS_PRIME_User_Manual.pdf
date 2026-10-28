@@ -1,0 +1,304 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+5 0 obj
+<< /Length 849 >>
+stream
+0.047 0.098 0.188 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.098 0.243 0.380 rg 49 667 119 62 re f
+0.722 0.925 0.996 rg BT /B 15 Tf 1 0 0 1 63 694 Tm (AEGIS PRIME) Tj ET
+1.000 1.000 1.000 rg BT /B 37 Tf 1 0 0 1 48 543 Tm (OFFICIAL) Tj ET
+0.357 0.835 0.973 rg BT /B 37 Tf 1 0 0 1 48 486 Tm (USER MANUAL) Tj ET
+0.824 0.902 0.961 rg BT /R 17 Tf 1 0 0 1 50 413 Tm (Discord Server Administration) Tj ET
+0.824 0.902 0.961 rg BT /R 17 Tf 1 0 0 1 50 385 Tm (Alliance Management & Privacy) Tj ET
+0.090 0.247 0.365 rg 49 315 282 34 re f
+0.725 0.929 1.000 rg BT /B 10 Tf 1 0 0 1 61 326 Tm (VERSION 24.55 | CLOUD READY) Tj ET
+0.286 0.408 0.506 rg 49 107 495 1 re f
+0.698 0.773 0.847 rg BT /R 9 Tf 1 0 0 1 50 78 Tm (SERVER OWNERS / STAFF / ALLIANCE LEADERS / PLAYERS) Tj ET
+0.698 0.773 0.847 rg BT /R 9 Tf 1 0 0 1 50 59 Tm (OCTOBER 2026) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3465 >>
+stream
+1.000 1.000 1.000 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.216 0.333 0.443 rg BT /B 9 Tf 1 0 0 1 50 806 Tm (AEGIS PRIME / OFFICIAL USER MANUAL) Tj ET
+0.216 0.333 0.443 rg BT /B 8 Tf 1 0 0 1 477 806 Tm (V24.55) Tj ET
+0.867 0.906 0.933 rg 50 794 495 1 re f
+0.075 0.224 0.341 rg BT /B 25 Tf 1 0 0 1 50 758 Tm (CONTENTS) Tj ET
+0.329 0.420 0.502 rg BT /R 9.8 Tf 1 0 0 1 50 721 Tm (Complete AEGIS PRIME v24.55 user and administrator manual) Tj ET
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 688 Tm (01) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 688 Tm (Getting Started) Tj ET
+0.894 0.929 0.953 rg 50 676 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 659 Tm (02) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 659 Tm (Server Control Panel) Tj ET
+0.894 0.929 0.953 rg 50 647 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 630 Tm (03) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 630 Tm (Assigning Players and Alliance Roles) Tj ET
+0.894 0.929 0.953 rg 50 618 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 601 Tm (04) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 601 Tm (Strict Alliance Channel Privacy \(v24.55\)) Tj ET
+0.894 0.929 0.953 rg 50 589 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 572 Tm (05) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 572 Tm (Alliance Leadership) Tj ET
+0.894 0.929 0.953 rg 50 560 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 543 Tm (06) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 543 Tm (Moderation and Staff Panel) Tj ET
+0.894 0.929 0.953 rg 50 531 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 514 Tm (07) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 514 Tm (Channels and Permissions) Tj ET
+0.894 0.929 0.953 rg 50 502 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 485 Tm (08) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 485 Tm (Announcements, Polls and Events) Tj ET
+0.894 0.929 0.953 rg 50 473 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 456 Tm (09) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 456 Tm (Player Onboarding and Verification) Tj ET
+0.894 0.929 0.953 rg 50 444 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 427 Tm (10) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 427 Tm (Backups and Recovery) Tj ET
+0.894 0.929 0.953 rg 50 415 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 398 Tm (11) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 398 Tm (Dashboard Auto-Cleanup) Tj ET
+0.894 0.929 0.953 rg 50 386 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 369 Tm (12) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 369 Tm (Support and Troubleshooting) Tj ET
+0.894 0.929 0.953 rg 50 357 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 55 340 Tm (13) Tj ET
+0.149 0.239 0.322 rg BT /R 10 Tf 1 0 0 1 95 340 Tm (Frequently Asked Questions) Tj ET
+0.894 0.929 0.953 rg 50 328 495 0.6 re f
+0.051 0.592 0.733 rg BT /B 10 Tf 1 0 0 1 50 293 Tm (ACCESS NOTE) Tj ET
+0.255 0.337 0.420 rg BT /R 9.4 Tf 1 0 0 1 50 275 Tm (Native Discord Administrator permissions bypass channel restrictions. AEGIS PRIME) Tj ET
+0.255 0.337 0.420 rg BT /R 9.4 Tf 1 0 0 1 50 260 Tm (cannot hide alliance rooms from native Discord Administrators or the server owner.) Tj ET
+0.863 0.910 0.941 rg 50 44 495 1 re f
+0.396 0.463 0.545 rg BT /R 8 Tf 1 0 0 1 50 28 Tm (AEGIS PRIME | OCTOBER 2026) Tj ET
+0.396 0.463 0.545 rg BT /B 8 Tf 1 0 0 1 482 28 Tm (PAGE 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3542 >>
+stream
+1.000 1.000 1.000 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.216 0.333 0.443 rg BT /B 9 Tf 1 0 0 1 50 806 Tm (AEGIS PRIME / OFFICIAL USER MANUAL) Tj ET
+0.216 0.333 0.443 rg BT /B 8 Tf 1 0 0 1 477 806 Tm (V24.55) Tj ET
+0.867 0.906 0.933 rg 50 794 495 1 re f
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 758 Tm (CHAPTER 01) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 735 Tm (Getting Started) Tj ET
+0.153 0.682 0.796 rg 50 722 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 700 Tm (Install AEGIS PRIME using its official Discord installation link. A server owner should) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 685 Tm (authorize the requested bot permissions and applications.commands scope. AEGIS must be) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 670 Tm (positioned ABOVE the alliance, staff, and management roles it administers in Discord Server) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 655 Tm (Settings -> Roles. Administrator permission is not required. Run /aegis setup, or use the) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 640 Tm (automatically posted Initial Server Setup dashboard. Complete the ten commissioning steps,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 625 Tm (including timezone, structure, alliances, onboarding, moderation, announcements, backups,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 610 Tm (provisioning, and final readiness.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 570 Tm (CHAPTER 02) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 547 Tm (Server Control Panel) Tj ET
+0.153 0.682 0.796 rg 50 534 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 512 Tm (The private SERVER CONTROL PANEL provides a Quick Feature Selector as well as shortcuts for) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 497 Tm (alliances, member assignment, channel controls, moderation, announcements, polls, events,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 482 Tm (settings, and system maintenance. Where practical, choose an action from a dropdown instead) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 467 Tm (of typing its name. The User Manual button opens the published HTTPS documentation link) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 452 Tm (when configured. If no link is configured, the bot can send a local HTML manual attachment.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 412 Tm (CHAPTER 03) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 389 Tm (Assigning Players and Alliance Roles) Tj ET
+0.153 0.682 0.796 rg 50 376 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 354 Tm (Open Assign / Move Player in SERVER CONTROL PANEL. Select a Discord member, choose an) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 339 Tm (existing alliance, select R1-R5, and select an action such as assign/move, promote, or) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 324 Tm (demote. Confirm the operation. The bot enforces role hierarchy and access restrictions.) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 309 Tm (Remove Player uses dropdowns and allows removing one alliance assignment or all alliance) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 294 Tm (roles. Alliance R5/R4 operators are restricted to their own authorized ranks and members.) Tj ET
+0.863 0.910 0.941 rg 50 44 495 1 re f
+0.396 0.463 0.545 rg BT /R 8 Tf 1 0 0 1 50 28 Tm (AEGIS PRIME | OCTOBER 2026) Tj ET
+0.396 0.463 0.545 rg BT /B 8 Tf 1 0 0 1 482 28 Tm (PAGE 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 5014 >>
+stream
+1.000 1.000 1.000 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.216 0.333 0.443 rg BT /B 9 Tf 1 0 0 1 50 806 Tm (AEGIS PRIME / OFFICIAL USER MANUAL) Tj ET
+0.216 0.333 0.443 rg BT /B 8 Tf 1 0 0 1 477 806 Tm (V24.55) Tj ET
+0.867 0.906 0.933 rg 50 794 495 1 re f
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 758 Tm (CHAPTER 04) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 735 Tm (Strict Alliance Channel Privacy \(v24.55\)) Tj ET
+0.153 0.682 0.796 rg 50 722 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 700 Tm (Every AEGIS-managed alliance category is restricted to that alliance's R1-R5 roles and the) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 685 Tm (AEGIS PRIME bot. This applies to the private general text channel, private voice channel,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 670 Tm (and additional rooms under the alliance category. The leadership control panel is) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 655 Tm (restricted to R5/R4. Other alliances and the AEGIS Admin bot-managed role are not given) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 640 Tm (private-channel access by AEGIS. Existing saved alliance categories are reconciled at bot) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 625 Tm (startup and during repairs, and accidental outside-role or directly-invited-user) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 610 Tm (permissions on alliance rooms are removed. This may revoke legacy custom guest access;) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 595 Tm (verify your permissions before upgrading. Discord's native Administrator permission) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 580 Tm (bypasses channel overwrites, and the server owner has inherent server access. AEGIS cannot) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 565 Tm (conceal these channels from native Discord Administrators; remove that native permission) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 550 Tm (from any staff member who must be excluded. Do not treat this as an end-to-end encrypted) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 535 Tm (space. Members who hold rank roles in multiple alliances may see both alliances; maintain) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 520 Tm (one alliance membership per player. Message edit/delete audit handlers do not forward) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 505 Tm (private alliance message contents into the server-wide moderation logs. Automatic security) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 490 Tm (enforcement continues but logs a generic reason. Older moderation-log messages already) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 475 Tm (present are not erased automatically. Always review permissions on an upgrade and test with) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 460 Tm (a member account, a staff account without Administrator, and an Administrator account.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 420 Tm (CHAPTER 05) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 397 Tm (Alliance Leadership) Tj ET
+0.153 0.682 0.796 rg 50 384 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 362 Tm (Alliance R5 and R4 leaders manage alliance membership, rank changes, requests,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 347 Tm (announcements, polls, and events in their private alliance dashboard. Promotions and role) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 332 Tm (transfers respect the chain of authority. Server owner/AEGIS admins have broader) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 317 Tm (configuration access, while standard members do not.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 277 Tm (CHAPTER 06) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 254 Tm (Moderation and Staff Panel) Tj ET
+0.153 0.682 0.796 rg 50 241 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 219 Tm (The private STAFF CONTROL PANEL offers dropdown menus for warnings, timeouts, kicks, bans,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 204 Tm (reports, tickets, unbans, and purging. The server owner also has moderation controls in) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 189 Tm (SERVER CONTROL PANEL. Select members from a Discord user dropdown where available, then) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 174 Tm (provide the reason and necessary confirmation. Safety confirmations for destructive) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 159 Tm (operations remain typed or explicit buttons. Warnings, logs, staff notes, moderation) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 144 Tm (escalation, protection rules, and timeouts follow server permissions and role hierarchy.) Tj ET
+0.863 0.910 0.941 rg 50 44 495 1 re f
+0.396 0.463 0.545 rg BT /R 8 Tf 1 0 0 1 50 28 Tm (AEGIS PRIME | OCTOBER 2026) Tj ET
+0.396 0.463 0.545 rg BT /B 8 Tf 1 0 0 1 482 28 Tm (PAGE 4) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4202 >>
+stream
+1.000 1.000 1.000 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.216 0.333 0.443 rg BT /B 9 Tf 1 0 0 1 50 806 Tm (AEGIS PRIME / OFFICIAL USER MANUAL) Tj ET
+0.216 0.333 0.443 rg BT /B 8 Tf 1 0 0 1 477 806 Tm (V24.55) Tj ET
+0.867 0.906 0.933 rg 50 794 495 1 re f
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 758 Tm (CHAPTER 07) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 735 Tm (Channels and Permissions) Tj ET
+0.153 0.682 0.796 rg 50 722 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 700 Tm (Channel Management supports category and channel selectors for hard locks, read-only mode,) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 685 Tm (hide/show, slow mode, creation, and deletion. The bot must have Manage Channels, Manage) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 670 Tm (Roles, and appropriate permissions on managed channels. Incorrect role position can block) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 655 Tm (repairs even when a permission is enabled. During setup, AEGIS validates required) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 640 Tm (infrastructure. AEGIS-managed channels can be automatically recovered when missing after) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 625 Tm (setup is READY.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 585 Tm (CHAPTER 08) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 562 Tm (Announcements, Polls and Events) Tj ET
+0.153 0.682 0.796 rg 50 549 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 527 Tm (Use dropdowns to choose an action and target channel or audience. Compose the announcement) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 512 Tm (text, poll question/options, or event details in text fields. Roles to mention can be) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 497 Tm (chosen with role selectors; R5/R4 permissions continue to limit alliance notices. Available) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 482 Tm (schedule and recurrence controls include dates, times, and intervals. For lists with 25 or) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 467 Tm (fewer records, a record selector can replace a manually entered ID; larger lists retain a) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 452 Tm (manual ID field because Discord limits menu choices.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 412 Tm (CHAPTER 09) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 389 Tm (Player Onboarding and Verification) Tj ET
+0.153 0.682 0.796 rg 50 376 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 354 Tm (A new member can select an alliance, request approval, and verify their in-game name.) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 339 Tm (Depending on enabled settings, AEGIS supplies welcome messages, DM onboarding, nickname) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 324 Tm (reminders, player dashboard preferences, support tickets, and rules acceptance. Server) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 309 Tm (owners manage approval settings in the dashboard.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 269 Tm (CHAPTER 10) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 246 Tm (Backups and Recovery) Tj ET
+0.153 0.682 0.796 rg 50 233 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 211 Tm (Open Backup / Database in SERVER CONTROL PANEL. Keep automatic backups enabled, run manual) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 196 Tm (backups before every upgrade, and test backup archives periodically. Oracle Cloud installs) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 181 Tm (store persistent state under /mnt/aegis-data and the application under /opt/aegis-prime.) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 166 Tm (Restores are administrative operations and should be planned carefully. Never delete the) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 151 Tm (data volume when upgrading application code.) Tj ET
+0.863 0.910 0.941 rg 50 44 495 1 re f
+0.396 0.463 0.545 rg BT /R 8 Tf 1 0 0 1 50 28 Tm (AEGIS PRIME | OCTOBER 2026) Tj ET
+0.396 0.463 0.545 rg BT /B 8 Tf 1 0 0 1 482 28 Tm (PAGE 5) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 3580 >>
+stream
+1.000 1.000 1.000 rg 0 0 595 842 re f
+0.153 0.706 0.863 rg 0 832 595 10 re f
+0.216 0.333 0.443 rg BT /B 9 Tf 1 0 0 1 50 806 Tm (AEGIS PRIME / OFFICIAL USER MANUAL) Tj ET
+0.216 0.333 0.443 rg BT /B 8 Tf 1 0 0 1 477 806 Tm (V24.55) Tj ET
+0.867 0.906 0.933 rg 50 794 495 1 re f
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 758 Tm (CHAPTER 11) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 735 Tm (Dashboard Auto-Cleanup) Tj ET
+0.153 0.682 0.796 rg 50 722 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 700 Tm (SERVER CONTROL PANEL, STAFF CONTROL PANEL, and R5/R4 management channels are intended to) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 685 Tm (keep their permanent dashboard messages and remove ordinary channel clutter after actions.) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 670 Tm (Completed private interaction results are automatically dismissed. In-progress interactive) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 655 Tm (dropdowns must remain visible until their workflow ends. Moderation logs, reports, support) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 640 Tm (transcripts, and event posts are excluded from this cleanup; they are records rather than) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 625 Tm (control- panel clutter.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 585 Tm (CHAPTER 12) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 562 Tm (Support and Troubleshooting) Tj ET
+0.153 0.682 0.796 rg 50 549 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 527 Tm (Run /aegis info for bot version and installation details, and /aegis readiness for) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 512 Tm (environment checks. If setup fails, examine permissions and role hierarchy first, then) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 497 Tm (inspect Oracle logs using sudo journalctl -u aegis-prime -n 80 --no-pager. Do not send your) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 482 Tm (Discord bot token or SSH private key to anyone. For public support, use AEGIS PRIME |) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 467 Tm (Official Support or your configured support resource.) Tj ET
+0.027 0.561 0.678 rg BT /B 8.5 Tf 1 0 0 1 50 427 Tm (CHAPTER 13) Tj ET
+0.071 0.216 0.345 rg BT /B 15.6 Tf 1 0 0 1 50 404 Tm (Frequently Asked Questions) Tj ET
+0.153 0.682 0.796 rg 50 391 495 1.6 re f
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 369 Tm (Can a bot reinstall on an existing server? Yes, but existing data and channel IDs may be) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 354 Tm (reused. The guided setup reconciles saved references and validates permissions. Does the) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 339 Tm (bot need Administrator? No; authorize only the requested permissions and keep the bot's) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 324 Tm (role above the roles it must manage. Can the bot be hosted on each server separately? No;) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 309 Tm (your Oracle Cloud installation can serve multiple guilds with separate configuration. When) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 294 Tm (does the manual button link work? After AEGIS_USER_MANUAL_URL points to a real HTTPS page) Tj ET
+0.141 0.212 0.294 rg BT /R 9.8 Tf 1 0 0 1 50 279 Tm (and the service restarts.) Tj ET
+0.863 0.910 0.941 rg 50 44 495 1 re f
+0.396 0.463 0.545 rg BT /R 8 Tf 1 0 0 1 50 28 Tm (AEGIS PRIME | OCTOBER 2026) Tj ET
+0.396 0.463 0.545 rg BT /B 8 Tf 1 0 0 1 482 28 Tm (PAGE 6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595 842] /Resources << /Font << /R 1 0 R /B 2 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000000257 00000 n 
+0000000348 00000 n 
+0000001247 00000 n 
+0000001381 00000 n 
+0000004897 00000 n 
+0000005031 00000 n 
+0000008624 00000 n 
+0000008759 00000 n 
+0000013825 00000 n 
+0000013961 00000 n 
+0000018215 00000 n 
+0000018351 00000 n 
+0000021983 00000 n 
+trailer
+<< /Size 17 /Root 3 0 R >>
+startxref
+22119
+%%EOF
